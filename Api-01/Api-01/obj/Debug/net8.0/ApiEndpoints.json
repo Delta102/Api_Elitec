@@ -1,6 +1,48 @@
 [
   {
     "ContainingType": "Api_01.Controllers.ProductsController",
+    "Method": "AddProduct",
+    "RelativePath": "Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Api_01.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Api_01.Models.Product",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api_01.Controllers.ProductsController",
+    "Method": "DeleteProduct",
+    "RelativePath": "Products/Eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_01.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "Products/Obtener",
     "HttpMethod": "GET",

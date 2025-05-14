@@ -34,3 +34,4 @@ D:\Elitec\Aplicaciones Móviles\Apis\Api-01\Api-01\obj\Debug\net8.0\refint\Api-0
 D:\Elitec\Aplicaciones Móviles\Apis\Api-01\Api-01\obj\Debug\net8.0\Api-01.pdb
 D:\Elitec\Aplicaciones Móviles\Apis\Api-01\Api-01\obj\Debug\net8.0\Api-01.genruntimeconfig.cache
 D:\Elitec\Aplicaciones Móviles\Apis\Api-01\Api-01\obj\Debug\net8.0\ref\Api-01.dll
+D:\Elitec\Aplicaciones Móviles\Apis\Api-01\Api-01\obj\Debug\net8.0\Api-01.sourcelink.json
